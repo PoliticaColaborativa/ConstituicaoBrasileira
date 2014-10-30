@@ -1,2 +1,5 @@
 ConstituicaoBrasileira
 ======================
+
+[Preâmbulo](preambulo.md)
+---------
