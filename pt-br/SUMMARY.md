@@ -17,4 +17,9 @@
        * [Art 9](titulo_ii/art_9.md)
        * [Art 10](titulo_ii/art_10.md)
        * [Art 11](titulo_ii/art_11.md)
+   * [Capitulo iii](titulo_ii/capitulo_iii.md)
+       * [Art 12](titulo_ii/art_12.md)
+       * [Art 13](titulo_ii/art_13.md)
+   * [Capitulo IV](titulo_ii/capitulo_iv.md)
+       * [Art 14](titulo_ii/art_14.md)
 
