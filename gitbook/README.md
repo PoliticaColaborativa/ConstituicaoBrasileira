@@ -1,6 +1,6 @@
 # Constituição da República Federativa do Brasil
 
-* Preâmbulo
+* [Preâmbulo](preambulo)
 * TÍTULO I  -  DOS PRINCÍPIOS FUNDAMENTAIS ( ART. 1 A ART. 4 )
 * TÍTULO II  -  DOS DIREITOS E GARANTIAS FUNDAMENTAIS ( ART. 5 A ART. 17 )
  * Capítulo I  -  Dos Direitos e Deveres Individuais e Coletivos ( art. 5 )
