@@ -1,1 +1,1 @@
-## Dos Direitos e Deveres Individuais e Coletivos
+## Capitulo I - Dos Direitos e Deveres Individuais e Coletivos
