@@ -28,6 +28,8 @@
        * [Art 17](titulo_ii/art_17.md)
 * [TÍTULO III - DA ORGANIZAÇÃO DO ESTADO](titulo_iii/README.md)
    * [Capitulo I - Da Organização Político-Administrativa](titulo_iii/capitulo_i.md)
+       * [Art 18](titulo_iii/art_18.md)
+       * [Art 19](titulo_iii/art_19.md)
    * [Capitulo II - Da União](titulo_iii/capitulo_ii.md)
    * [Capitulo III - Dos Estados Federados](titulo_iii/capitulo_iii.md)
    * [Capitulo IV - Dos Municípios](titulo_iii/capitulo_iv.md)
