@@ -1,4 +1,4 @@
-Art. 14 A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante:
+**Art. 14** A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante:
 * I -  plebiscito;
 * II -  referendo;
 * III -  iniciativa popular.
