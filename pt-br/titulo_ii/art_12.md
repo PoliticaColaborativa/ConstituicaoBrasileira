@@ -1,4 +1,4 @@
-Art. 12 São brasileiros:
+**Art. 12** São brasileiros:
 * I -  natos:
  * a)  os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país;
  * b)  os nascidos no estrangeiro, de pai brasileiro ou de mãe brasileira, desde que qualquer deles esteja a serviço da República Federativa do Brasil;

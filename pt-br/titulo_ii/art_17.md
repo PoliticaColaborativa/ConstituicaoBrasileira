@@ -1,4 +1,4 @@
-**Art. 17**. É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo, os direitos fundamentais da pessoa humana e observados os seguintes preceitos:
+**Art. 17** É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo, os direitos fundamentais da pessoa humana e observados os seguintes preceitos:
 * I -  caráter nacional;
 * II -  proibição de recebimento de recursos financeiros de entidade ou governo estrangeiros ou de subordinação a estes;
 * III -  prestação de contas à Justiça Eleitoral;
