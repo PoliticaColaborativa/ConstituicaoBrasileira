@@ -1,4 +1,4 @@
-Art. 14. A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante:
+Art. 14 A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante:
 * I -  plebiscito;
 * II -  referendo;
 * III -  iniciativa popular.
@@ -28,5 +28,5 @@ Art. 14. A soberania popular será exercida pelo sufrágio universal e pelo voto
  * I -  se contar menos de dez anos de serviço, deverá afastar-se da atividade;
  * II -  se contar mais de dez anos de serviço, será agregado pela autoridade superior e, se eleito, passará automaticamente, no ato da diplomação, para a inatividade.
 * **§ 9º** Lei complementar estabelecerá outros casos de inelegibilidade e os prazos de sua cessação, a fim de proteger a normalidade e legitimidade das eleições contra a influência do poder econômico ou o abuso do exercício de função, cargo ou emprego na administração direta ou indireta.
-* **§ 10º**. O mandato eletivo poderá ser impugnado ante a Justiça Eleitoral no prazo de quinze dias contados da diplomação, instruída a ação com provas de abuso do poder econômico, corrupção ou fraude.
-* **§ 11º**. A ação de impugnação de mandato tramitará em segredo de justiça, respondendo o autor, na forma da lei, se temerária ou de manifesta má-fé.
+* **§ 10º** O mandato eletivo poderá ser impugnado ante a Justiça Eleitoral no prazo de quinze dias contados da diplomação, instruída a ação com provas de abuso do poder econômico, corrupção ou fraude.
+* **§ 11º** A ação de impugnação de mandato tramitará em segredo de justiça, respondendo o autor, na forma da lei, se temerária ou de manifesta má-fé.
