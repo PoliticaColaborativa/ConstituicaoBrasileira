@@ -2,7 +2,7 @@
 
 ## Edição
 
-Original de 1988
+Original de 1988. Com base no texto disponível no site do senado:  http://www.senado.gov.br/legislacao/const/con1988/CON1988_05.10.1988/index.shtm
 
 ## Motivação e Objetivos 
 
