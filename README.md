@@ -1,5 +1,9 @@
 # Constituição da República Federativa do Brasil
 
+## Edição
+
+Original de 1988
+
 ## Motivação e Objetivos 
 
 Este projeto tem como objetivo transcrever a Constituição da República Federativa do Brasil de um documento com [dados não estruturados](http://en.wikipedia.org/wiki/Unstructured_data) para um [documento estruturado](http://en.wikipedia.org/wiki/Structured_document).
